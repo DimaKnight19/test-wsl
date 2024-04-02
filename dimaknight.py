@@ -1,1 +1,2 @@
-Hello
+def dima():
+    print('Dima, yo!')
